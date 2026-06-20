@@ -6,6 +6,8 @@
 - abstraction
 - interface vs abstract class
 - exception handling
+    - Recoverable business case → Checked
+    - Programming/business rule violation → Unchecked (common in Spring)
 - collections
 - stream API
 - optinal
