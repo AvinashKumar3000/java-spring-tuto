@@ -1,0 +1,23 @@
+# core java
+
+- oop
+- inheritance
+- polymorphism
+- abstraction
+- interface vs abstract class
+- exception handling
+- collections
+- stream API
+- optinal
+- lambda
+- functional interfaces
+- threads
+- ExecutorService
+- CompletableFuture
+- Synchronization
+- Immutable objects
+- String pool
+- equals() vs ==
+- hashCode()
+- Garbage collection
+- JVM Memory ( Heap, Stack, Metaspace )
