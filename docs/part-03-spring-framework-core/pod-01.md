@@ -1,6 +1,6 @@
 # spring framework core
 
-- IoC
+- IoC ( inversion of control )
 - Dependency injection
 - Bean lifecycle
 - Bean scopes
